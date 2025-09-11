@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Page-1" id="uwWmLrihMbCE7wl1BpQy">
-    <mxGraphModel dx="1429" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yaegG0xLpFhR7W5lY1g_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yaegG0xLpFhR7W5lY1g_-3" target="yaegG0xLpFhR7W5lY1g_-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yaegG0xLpFhR7W5lY1g_-3" value="START" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yaegG0xLpFhR7W5lY1g_-3" value="START" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="20" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yaegG0xLpFhR7W5lY1g_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yaegG0xLpFhR7W5lY1g_-18" target="yaegG0xLpFhR7W5lY1g_-36" edge="1">
@@ -52,7 +52,7 @@
             <mxPoint x="280" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yaegG0xLpFhR7W5lY1g_-28" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;Ricotta mixture&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 11.04pt;&quot;&gt;with eggs, parsley, and salt&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="yaegG0xLpFhR7W5lY1g_-28" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0);&quot;&gt;Ricotta mixture :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 11.04pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Mix ricotta cheese with eggs, parsley, and salt&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="80" y="295.5" width="170" height="54.5" as="geometry" />
         </mxCell>
         <mxCell id="yaegG0xLpFhR7W5lY1g_-33" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -99,7 +99,7 @@
         <mxCell id="yaegG0xLpFhR7W5lY1g_-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yaegG0xLpFhR7W5lY1g_-41" target="yaegG0xLpFhR7W5lY1g_-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yaegG0xLpFhR7W5lY1g_-41" value="Fresh&amp;nbsp;&lt;div&gt;noddles ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yaegG0xLpFhR7W5lY1g_-41" value="Fresh&amp;nbsp;&lt;div&gt;noddles ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="620" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yaegG0xLpFhR7W5lY1g_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yaegG0xLpFhR7W5lY1g_-46" target="yaegG0xLpFhR7W5lY1g_-41" edge="1">
@@ -157,7 +157,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yaegG0xLpFhR7W5lY1g_-81" value="Using spinash?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yaegG0xLpFhR7W5lY1g_-81" value="Using spinash?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="10" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yaegG0xLpFhR7W5lY1g_-82" value="Add&amp;nbsp;&lt;div&gt;spinash&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
@@ -185,7 +185,7 @@
             <mxPoint x="700" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yaegG0xLpFhR7W5lY1g_-94" value="Do&amp;nbsp;&lt;div&gt;you want thicker Lasagna?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yaegG0xLpFhR7W5lY1g_-94" value="Do&amp;nbsp;&lt;div&gt;you want thicker Lasagna?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="550" y="520" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yaegG0xLpFhR7W5lY1g_-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="yaegG0xLpFhR7W5lY1g_-98" target="yaegG0xLpFhR7W5lY1g_-93" edge="1">
@@ -213,11 +213,16 @@
         <mxCell id="yaegG0xLpFhR7W5lY1g_-102" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Final Cooking and Monitoring&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="540" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yaegG0xLpFhR7W5lY1g_-103" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="430" y="780" width="120" height="60" as="geometry" />
+        <mxCell id="1etsLRY6B3lkyLMtGu86-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaegG0xLpFhR7W5lY1g_-103" target="1etsLRY6B3lkyLMtGu86-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="770" />
+              <mxPoint x="345" y="770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="yaegG0xLpFhR7W5lY1g_-105" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="650" y="780" width="120" height="60" as="geometry" />
+        <mxCell id="yaegG0xLpFhR7W5lY1g_-103" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Bake the Lasagna&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 11.04pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Preheat the oven to 375°F (190°C)&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="260" y="681" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1etsLRY6B3lkyLMtGu86-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yaegG0xLpFhR7W5lY1g_-107" target="yaegG0xLpFhR7W5lY1g_-80">
           <mxGeometry relative="1" as="geometry" />
@@ -253,6 +258,93 @@
             <mxPoint x="710" y="320" as="sourcePoint" />
             <mxPoint x="709.81" y="340.1" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1etsLRY6B3lkyLMtGu86-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Serving the Lasagna&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#FFFFFF;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="480" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1etsLRY6B3lkyLMtGu86-7" target="1etsLRY6B3lkyLMtGu86-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="810" />
+              <mxPoint x="630" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-7" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Place the lasagna in the oven for 45 &lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;minutes to 1 hour, covering with foil for the first 30 minutes&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="780" width="292" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1etsLRY6B3lkyLMtGu86-10" target="1etsLRY6B3lkyLMtGu86-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1etsLRY6B3lkyLMtGu86-10" target="1etsLRY6B3lkyLMtGu86-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="621" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-10" value="Is cheese&amp;nbsp;&lt;div&gt;melting&amp;nbsp;&lt;/div&gt;&lt;div&gt;properly ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="571" y="765" width="99" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-13" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="855" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="671" y="810" as="targetPoint" />
+            <mxPoint x="731.0256410256411" y="790" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="731" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-15" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Continue baking for another 15-20 minutes&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="740" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-22" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="745" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1etsLRY6B3lkyLMtGu86-25" target="1etsLRY6B3lkyLMtGu86-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1040" />
+              <mxPoint x="570" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Let the lasagna cool for 10-15 minutes before serving.&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1010" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1etsLRY6B3lkyLMtGu86-26" target="1etsLRY6B3lkyLMtGu86-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="512" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1etsLRY6B3lkyLMtGu86-26" target="1etsLRY6B3lkyLMtGu86-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-26" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Do&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;you prefer&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;a crispy&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;top ?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="462" y="995" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-28" value="Enjoy your meal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-30" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1etsLRY6B3lkyLMtGu86-31" target="1etsLRY6B3lkyLMtGu86-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1etsLRY6B3lkyLMtGu86-31" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Broil the lasagna for the last 2-3 &lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11.04pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;minutes.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
